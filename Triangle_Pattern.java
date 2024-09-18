@@ -3,8 +3,9 @@ package com.practice;
 import java.util.Scanner;
 
 public class Triangle_Pattern {
-
+//Test
 	public static void main(String[] args) {
+		int a=5;
 		// TODO Auto-generated method stub
 		System.out.println("enter your line");
 		int line=new Scanner(System.in).nextInt() ;
